@@ -2,7 +2,7 @@
 A collection of custom assets for Roblox, including cursors, wallpapers, images, and sounds.
 
 ## About
-*Note: It is mostly a personal choice and contains mostly classic stuff.*
+*Note: It mostly personal choice and contains mostly classic stuff.*
 
 ## What's Inside
 - Cursors: Custom cursor sets to replace the default Roblox mouse.
@@ -24,7 +24,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **License:** Released to Public Domain
   - You are free: To use this work for any legal purpose.
 
-### Roblox 2016 Cursor Set
+### Roblox 2016 cur sor Cursor Set
 - **By:** Itskaud
 - **Download:** [http://www.rw-designer.com/cursor-set/roblox-2016-cur-sor](http://www.rw-designer.com/cursor-set/roblox-2016-cur-sor)
 - **Author's description:** [Add description here if available]
