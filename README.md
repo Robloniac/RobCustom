@@ -1,5 +1,5 @@
 # RobCustom
-A collection of custom assets for Roblox, including cursors, wallpapers, images, and sounds.
+A collection of custom assets for Roblox or any other needs, including cursors, wallpapers, images, and sounds.
 
 ## About
 *Note: It mostly personal choice and contains mostly classic stuff.*
